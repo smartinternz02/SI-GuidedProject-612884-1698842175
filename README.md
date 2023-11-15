@@ -1,4 +1,3 @@
-```markdown
 # AI-Powered Eye Disease Prediction :eye: :sparkles:
 
 Welcome to our project's home on GitHub! Dive into our code that utilizes deep learning to predict eye diseases with precision and care.
@@ -57,4 +56,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Link: [https://github.com/smartinternz02/SI-GuidedProject-612884-1698842175](https://github.com/smartinternz02/SI-GuidedProject-612884-1698842175)
 
 Let's make healthcare better, one prediction at a time! :heart:
-```
+
