@@ -45,7 +45,6 @@ Your contributions make the open-source community an amazing place to learn, ins
 5. Open a Pull Request
 
 ## Credits :trophy:
-- Thanks to Inception V3 for the backbone of our prediction models.
 - Applause for VGG-16 for pushing the boundaries of accuracy.
 
 ## License Info :page_with_curl:
