@@ -46,8 +46,7 @@ Your contributions make the open-source community an amazing place to learn, ins
 
 ## Credits :trophy:
 - Thanks to Inception V3 for the backbone of our prediction models.
-- Shoutout to VGG-16 for its robustness and simplicity.
-- Applause for Xception for pushing the boundaries of accuracy.
+- Applause for VGG-16 for pushing the boundaries of accuracy.
 
 ## License Info :page_with_curl:
 Distributed under the MIT License. See `LICENSE` for more information.
