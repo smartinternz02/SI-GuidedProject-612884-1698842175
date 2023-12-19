@@ -9,7 +9,7 @@ Welcome to our project's home on GitHub! Dive into our code that utilizes deep l
 - [License Info](#license-info)
 
 ## Getting Started :rocket:
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running follow these simple steps:
 
 ```bash
 git clone https://github.com/smartinternz02/SI-GuidedProject-612884-1698842175.git
