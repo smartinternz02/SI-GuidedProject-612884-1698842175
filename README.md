@@ -2,7 +2,7 @@
 
 Welcome to our project's home on GitHub! Dive into our code that utilizes deep learning to predict eye diseases with precision and care.
 
-## Quick Links
+## Quick Links 
 - [Getting Started](#getting-started)
 - [Features](#features)
 - [How to Contribute](#how-to-contribute)
